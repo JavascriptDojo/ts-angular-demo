@@ -14,11 +14,11 @@ export class TwitterApplicationComponent implements ng.IComponentOptions {
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#/">Tweet app</a>
+                    <a class="navbar-brand" href="#/">Javascript Dojo</a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="#/" title="Tweets">Tweets</a></li>
+                        <li><a href="#/" title="Tweets">Home</a></li>
                         <li><a href="#/about" title="About">About</a></li>
                         <li><a href="#/hello" title="Hello">Hello</a></li>
                     </ul>
